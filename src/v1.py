@@ -5612,7 +5612,7 @@ def main():
     """Main entry point for DkTC system"""
     print("=" * 60)
     print("DKTC - Distributed k-Tree Computing System")
-    print("Version: 1.0.0")
+    print("Version: 0.1.0")
     print("=" * 60)
 
     # Create configuration
